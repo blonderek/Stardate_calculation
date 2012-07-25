@@ -1,0 +1,1 @@
+This python code calculates the fictional Stardate by basing it on the Julian Day Number used by astronomers.
